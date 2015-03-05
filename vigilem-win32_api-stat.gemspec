@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = 'vigilem-win32_api-stat'
-  spec.version       = '0.0.2'
+  spec.version       = '0.0.3'
   spec.summary       = 'Stat(us) for whether or not Win32API is available'
   spec.description   = 'Stat(us) for whether or not Win32API is available'
   spec.authors       = ['jtzero']

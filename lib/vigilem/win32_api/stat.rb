@@ -1,5 +1,7 @@
 require 'ffi'
 
+require 'vigilem/core/stat'
+
 module Vigilem
 module Win32API
   # Stat(us) of Win32API and the handler 
